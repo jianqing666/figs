@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T14:57:34.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.3" etag="BGFv_yoBzWRq5gj1Zpua" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T15:06:54.820Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="88MDEIYz2VjRF8vTXhZB" version="21.2.3" type="github">
   <diagram name="第 1 页" id="IEdVGTVBu4nzPUlNzJ76">
-    <mxGraphModel>
+    <mxGraphModel dx="1194" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KU1CGZmS1YNso8XlriBB-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="280" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-1" value="&lt;p&gt;&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Tahoma&quot;&gt;任务/数据&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="KU1CGZmS1YNso8XlriBB-8">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="KU1CGZmS1YNso8XlriBB-8">
+          <mxGeometry x="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="KU1CGZmS1YNso8XlriBB-8" source="KU1CGZmS1YNso8XlriBB-1" target="KU1CGZmS1YNso8XlriBB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-3" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;训练&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="KU1CGZmS1YNso8XlriBB-8">
+          <mxGeometry x="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="KU1CGZmS1YNso8XlriBB-8" source="KU1CGZmS1YNso8XlriBB-2" target="KU1CGZmS1YNso8XlriBB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-4" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 26px;&quot;&gt;评估&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="KU1CGZmS1YNso8XlriBB-8">
+          <mxGeometry x="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KU1CGZmS1YNso8XlriBB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="KU1CGZmS1YNso8XlriBB-8" source="KU1CGZmS1YNso8XlriBB-3" target="KU1CGZmS1YNso8XlriBB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
