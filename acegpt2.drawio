@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T02:14:50.199Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.8.2" etag="CUNeydbxKcV-PVvX9aoC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T04:12:16.101Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3YXnfeTqmJlexonlag0O" version="21.8.2" type="github">
   <diagram name="第 1 页" id="g2-Hgd-otCSVd7NyG__A">
-    <mxGraphModel>
+    <mxGraphModel dx="1368" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHlJhzmSsDk5Wk_ySNNF-1" target="bHlJhzmSsDk5Wk_ySNNF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Research&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="211" y="120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bHlJhzmSsDk5Wk_ySNNF-2" target="bHlJhzmSsDk5Wk_ySNNF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="211" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;commercialize&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="211" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-5" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="381" y="100" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="381" y="300" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="379" y="500" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AceGPT-13B (based on Llama 2): remain SOTA&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="396" y="280" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Work package 1: Arabic LLM&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="401" y="80" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Work package 2: Acceleration of LLMs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="395" y="196" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AceGPT2-13B:&amp;nbsp;development in-house foundation models and algorithms&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="401" y="340" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AceGPT2-70B:&amp;nbsp;&amp;nbsp;surpass ChatGPT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="399" y="400" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="651" y="60" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data: local data collection&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662" y="40" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Training: localization &amp;amp; multilingualism&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="659" y="80" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Evaluation: AI-Human hybrid evaluation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="662" y="120" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="719" y="176" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Training efficiency: novel architecture MgNet&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="729" y="157" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Inference efficiency: mixture of shared experts&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="732" y="196" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Parameter compression: tensor networks&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="732" y="236" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AceGPT Agent&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="401" y="480" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bHlJhzmSsDk5Wk_ySNNF-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Company&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="399" y="600" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
