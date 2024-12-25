@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="第 1 页" id="qJFG4ZYVAEiP9m0R-gby">
-    <mxGraphModel dx="1026" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1207" dy="765" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,9 @@
         </mxCell>
         <mxCell id="aoEHYYdZmD1ayY0yGocH-33" value="MgGPT-downstream" style="rounded=1;whiteSpace=wrap;html=1;" parent="aoEHYYdZmD1ayY0yGocH-27" vertex="1">
           <mxGeometry x="13.25" y="83" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cw1NZM94ZHt3_66bPdFc-57" value="Company" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="aoEHYYdZmD1ayY0yGocH-27">
+          <mxGeometry x="22.75" y="257" width="104.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H2LMfA4cWkD5YnM_SA28-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="gEcVDK2G-cnFGfUPvAR2-10" source="H2LMfA4cWkD5YnM_SA28-5" target="H2LMfA4cWkD5YnM_SA28-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
